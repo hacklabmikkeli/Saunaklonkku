@@ -1,4 +1,4 @@
-# Saunaklonkku
+# Saunaklonkku Hacklabille
 Saunaboksi kaiuttimella ja erillisellä lähettimellä.
 
 ### Lähetin
