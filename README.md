@@ -1,4 +1,4 @@
-# Saunaboksi
+# Saunaklonkku
 Saunaboksi kaiuttimella ja erillisellä lähettimellä.
 
 ### Lähetin
